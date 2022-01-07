@@ -1,0 +1,29 @@
+.description {
+  width: inherit;
+  overflow-x: hidden;
+  white-space: pre-line;
+  margin: 2rem;
+  font-family: monospace;
+  font-size: 18px;
+}
+
+.example {
+  font-family: monospace;
+  font-size: 18px;
+  margin: 2rem;
+}
+
+.home-container {
+  flex-direction: column;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+}
+
+.inner-container {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
