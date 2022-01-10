@@ -1,6 +1,6 @@
 React Digit Recognition App hosted in Google Cloud
 
-<img src="./app.gif" alt="My Project GIF" width="500" height="600">
+<img src="./app.gif" alt="My Project GIF" height="600">
 
 Frontend:
 - React
